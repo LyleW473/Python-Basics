@@ -22,7 +22,6 @@ for index, name in enumerate(inventory_names):
         print("Halfway complete")
  
 # Task: Combine zip and enumerate to get 'Screws [id: 0] - inventory: 43'
-print("-----------------------------------------------")
 data = list(zip(inventory_names, inventory_numbers))
 
 print(data)
