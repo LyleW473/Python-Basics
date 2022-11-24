@@ -5,9 +5,7 @@ Python can delete things using "del"
 # Remove items from a list by index
 
 my_list = [23,55,65,8]
-
 del(my_list[2])
-
 print(my_list)
 
 my_list = [23,55,65,8]
